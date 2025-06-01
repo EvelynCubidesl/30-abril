@@ -62,7 +62,4 @@ El proyecto parte de una experiencia real con un banco de pruebas de la Fuerza A
 
 El análisis demuestra cómo distintas configuraciones mecánicas afectan la precisión, eficiencia y respuesta dinámica del sistema. El uso de Simscape Multibody permite una comprensión detallada del impacto físico y controlable de cada elemento.
 
----
-
-## 📁 Estructura del Proyecto
 
